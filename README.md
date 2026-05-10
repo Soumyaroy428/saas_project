@@ -87,7 +87,8 @@ npx prisma db push
 npm run dev
 ```
 
-6. Open [http://localhost:3000](http://localhost:3000) in your browser.
+6. Deployed Project Link:
+https://saas-project-uy5w.vercel.app
 
 ## Project Structure
 
